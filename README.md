@@ -71,3 +71,53 @@ rock-vs-mine-prediction/
 ├── assets/
 │   └── banner.png                  # Project banner image
 └── README.md                       # You're reading it!
+
+⚙️ How to Run It
+Clone the repo
+
+git clone https://github.com/yourusername/rock-vs-mine-prediction.git
+cd rock-vs-mine-prediction
+Install the required libraries
+
+pip install -r requirements.txt
+Run the notebook
+Open Rock_vs_Mine_Prediction.ipynb using Jupyter Notebook or Google Colab and follow along.
+
+💡 Future Ideas
+🌊 Build a web app to let users upload sonar samples
+
+🤖 Add deep learning (CNN/MLP for sequential input)
+
+🛰️ Explore real-time sonar streaming simulations
+
+🔍 Model explainability with SHAP or LIME
+
+🙋‍♂️ Author
+Mohammed Jaasir
+Engineering student at SNS College of Engineering
+📫 Connect on LinkedIn | GitHub
+
+📜 License
+This project is open-source under the MIT License — feel free to use, fork, or contribute.
+
+“Use AI to solve real problems — even underwater.”
+
+📌 Hashtags (for LinkedIn/Portfolio)
+#MachineLearning #SonarAI #AIProjects #UnderwaterDetection #PythonProjects #DefenseTech #RealWorldAI #MohammedJaasir #StudentProjects #RockVsMine #SignalProcessing #OpenSource
+
+yaml
+Copy
+Edit
+
+---
+
+Would you like me to export this as a `.md` file or add a `requirements.txt` based on your notebook?
+
+
+
+
+
+
+
+
+
